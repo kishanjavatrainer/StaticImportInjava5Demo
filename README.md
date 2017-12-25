@@ -1,0 +1,1 @@
+# StaticImportInjava5Demo
